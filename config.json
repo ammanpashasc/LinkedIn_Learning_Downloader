@@ -1,0 +1,14 @@
+{
+  "chromeDriverLocation": "/home/amman/Desktop/PyCharmProjects/chromedriver",
+  "runHeadless": false,
+  "courses": [
+    {
+      "title": "Learn Apache Kafka for Beginners",
+      "url": "https://www.linkedin.com/learning/learn-apache-kafka-for-beginners/"
+    },
+    {
+      "title": "Docker for Developers",
+      "url": "https://www.linkedin.com/learning/docker-for-developers-2/"
+    }
+  ]
+}
