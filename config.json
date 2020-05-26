@@ -1,5 +1,5 @@
 {
-  "chromeDriverLocation": "/home/amman/Desktop/PyCharmProjects/chromedriver",
+  "chromeDriverLocation": "/path/to/your/chromedriver",
   "runHeadless": false,
   "courses": [
     {
